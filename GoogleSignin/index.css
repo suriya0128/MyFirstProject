@@ -1,0 +1,16 @@
+.main{
+    background-color: #ffffff;
+     border: 1px solid #333;
+     width: 500px; 
+     padding: 25px;
+     margin: auto;
+     text-align: center;
+     overflow: hidden;
+
+}
+.button-left{
+    float: left;
+}
+.button-right{
+    float: right;
+}
